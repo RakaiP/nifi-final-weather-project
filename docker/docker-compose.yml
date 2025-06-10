@@ -8,7 +8,7 @@ services:
       - "8443:8443"
     environment:
       - SINGLE_USER_CREDENTIALS_USERNAME=admin
-      - SINGLE_USER_CREDENTIALS_PASSWORD=admin123!
+      - SINGLE_USER_CREDENTIALS_PASSWORD=SecurePass123!
     volumes:
       - nifi-data:/opt/nifi/nifi-current/data
       - ./nifi/flows:/opt/nifi/nifi-current/flows

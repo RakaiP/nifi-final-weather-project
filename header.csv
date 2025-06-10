@@ -1,0 +1,2 @@
+latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation51.493847,-0.1630249,23.0,0,GMT,GMT
+time,temperature_2m (°C),relative_humidity_2m (%),precipitation (mm),weather_code (wmo code),wind_speed_10m (km/h),wind_direction_10m (°),cloud_cover (%)

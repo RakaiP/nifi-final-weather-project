@@ -4,7 +4,7 @@
 This report outlines the implementation of a real-time data ingestion pipeline using Apache NiFi. It details the setup process, the flow design, and the performance metrics observed during testing. Additionally, a comparison with Apache Kafka is provided to highlight the strengths of NiFi in handling transformation-heavy workloads.
 
 ## 1. Group Name
-[Your Group Name Here]
+Rakai-Ken-Abhin
 
 ## 2. Overview
 The project aims to create a robust real-time data ingestion pipeline that fetches weather data from the OpenWeatherMap API, processes it, and stores it in a CSV format. Apache NiFi is chosen for its ease of use, powerful data flow capabilities, and support for various data formats.
